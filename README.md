@@ -21,7 +21,4 @@ The study explores the use of ML models (SVC, Random Forest, Logistic Regression
 3. Compare results using key performance metrics.
 4. Identify the most suitable model for deployment.
 
-## Citation
-Group9 Project: Predicting Pneumonia from Chest X-Rays Using ML Models, INDE7397, 2024.
-
 Let me know if you’d like code snippets, experiment setup instructions, or extra details!
