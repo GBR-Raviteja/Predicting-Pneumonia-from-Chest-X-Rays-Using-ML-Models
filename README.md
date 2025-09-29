@@ -14,6 +14,7 @@ The study explores the use of ML models (SVC, Random Forest, Logistic Regression
 ## Technologies & Datasets
 - Python, scikit-learn, imbalanced-learn, Keras, OpenCV
 - Public chest X-ray datasets (Kaggle, NIH ChestX-ray8)
+- Source: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ## How to Use
 1. Preprocess and augment chest X-ray images.
